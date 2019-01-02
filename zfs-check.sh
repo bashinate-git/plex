@@ -1,5 +1,5 @@
 #!/bin/bash
-EMAIL_ADD=5124618144@mms.cricketwireless.net
+EMAIL_ADD=@mms.cricketwireless.net
 
 checkstatus=$(zpool status -x | grep 'all pools are healthy')
 
